@@ -30,4 +30,4 @@ Contributions are welcome! If you have suggestions or improvements, please open 
 
 ## License
 
-*This project is licensed under [GPL-3.0 license](https://github.com/PeriodicForce/Xenon?tab=GPL-3.0-1-ov-file#readme).*
+*This project is licensed under [GPL-3.0 license](LICENSE).*
